@@ -1,0 +1,34 @@
+_repo: Anne-of-Avonlea_47
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Montgomery, L. M. (Lucy Maud)
+    aliases:
+    - MacDonald, Lucy Maud Montgomery
+    - Montgomery, Lucy Maud
+    birthdate: 1874
+    deathdate: 1942
+    gutenberg_agent_id: '36'
+    url: http://www.gutenberg.org/2009/agents/36
+    wikipedia: http://en.wikipedia.org/wiki/Lucy_Maud_Montgomery
+description: ''
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2006-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Orphans -- Fiction'
+- !lcsh 'Prince Edward Island -- History -- 20th century -- Fiction'
+- !lcsh 'Shirley, Anne (Fictitious character) -- Fiction'
+- !lcsh 'Teachers -- Fiction'
+- !lcsh 'Islands -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Canada -- History -- 1914-1945 -- Fiction'
+- GITenberg
+title: Anne of Avonlea
+url: http://www.gutenberg.org/ebooks/47
